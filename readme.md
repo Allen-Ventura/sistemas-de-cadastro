@@ -4,5 +4,5 @@
 
  para rodar esse aplicativo é necessario baixar
 ```
- npm install react
+ node app.js
 ```
